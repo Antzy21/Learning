@@ -1,7 +1,9 @@
-FSharpTutorial/.vs/*
-*.fsproj
-*.user
 *.sln
+*.vs/*
+*.fsproj
+FSharpLearning/*/.vs/*
+FSharpLearning/.vs/*
 
-*/obj/*
-*/bin/*
+FSharpLearning/*/*.user
+FSharpLearning/*/bin/*
+FSharpLearning/*/obj/*
