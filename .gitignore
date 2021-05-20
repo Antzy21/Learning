@@ -1,0 +1,7 @@
+FSharpTutorial/.vs/*
+*.fsproj
+*.user
+*.sln
+
+*/obj/*
+*/bin/*
