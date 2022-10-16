@@ -30,15 +30,15 @@ let rec printAccumulatedGifts (gifts: string List) =
             printAccumulatedGifts gifts.Tail
 
 let rec printSongWithAccumulatedGifts (accumulatedGifts: string List) (daysAndGifts: DayAndGift List) =
-    match daysAndGifts.Length > 0 with
-        | true ->
-            printfn "On the %s day of Christmas" daysAndGifts.Head.Day
+    match daysAndGifts.Length with
+        | 0 -> () // Check styling - Aim is to do nothing on this match
+        | _ ->
+            printfn $"On the {daysAndGifts.Head.Day} day of Christmas" 
             printfn "My true love gave to me:"
             let moreAccumulatedGifts = (daysAndGifts.Head.Gift :: accumulatedGifts)
             printAccumulatedGifts moreAccumulatedGifts
             printfn ""
             printSongWithAccumulatedGifts moreAccumulatedGifts daysAndGifts.Tail
-        | false -> ()
 
 let printSong = printSongWithAccumulatedGifts []
 
