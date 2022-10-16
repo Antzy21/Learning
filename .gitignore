@@ -7,3 +7,9 @@ FSharpLearning/.vs/*
 FSharpLearning/*/*.user
 FSharpLearning/*/bin/*
 FSharpLearning/*/obj/*
+/InterconnectedPrograms/.vs
+/InterconnectedPrograms/InterconnectedPrograms/.vs/InterconnectedPrograms
+/InterconnectedPrograms/InterconnectedPrograms/Parent/obj
+/InterconnectedPrograms/InterconnectedPrograms/Parent/bin/Debug/net6.0
+/InterconnectedPrograms/InterconnectedPrograms/Child/bin/Debug/net6.0
+/InterconnectedPrograms/InterconnectedPrograms/Child/obj
