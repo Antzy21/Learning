@@ -1,9 +1,4 @@
-*.sln
-*.vs/*
-*.fsproj
-FSharpLearning/*/.vs/*
-FSharpLearning/.vs/*
-
-FSharpLearning/*/*.user
-FSharpLearning/*/bin/*
-FSharpLearning/*/obj/*
+**/.vs/*
+**/*.user
+**/bin/*
+**/obj/*
