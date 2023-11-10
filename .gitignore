@@ -2,3 +2,5 @@
 **/*.user
 **/bin/*
 **/obj/*
+
+Discord Bots/secrets/Ids.py
