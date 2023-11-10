@@ -1,0 +1,10 @@
+\documentclass[a4paper]{article}
+\title{Testing Images}
+\author{Anthony Dunford}
+\usepackage{graphicx}
+\begin{document}
+\maketitle
+\includegraphics[scale=2]{graphfig.1}
+\includegraphics[scale=1]{graphfig.2}
+\includegraphics[scale=1]{CC}
+\end{document}

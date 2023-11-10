@@ -1,0 +1,28 @@
+# Fdb version 3
+["bibtex LaTeXreferencing"] 1560368262 "LaTeXreferencing.aux" "LaTeXreferencing.bbl" "LaTeXreferencing" 1560368262
+  "C:/Users/Anthony/AppData/Local/Programs/MiKTeX 2.9/bibtex/bst/bibtex/unsrt.bst" 1291868336 18030 1376b4b231b50c66211e47e42eda2875 ""
+  "LaTeXreferencing.aux" 1447627664 546 384594c5ea9527b518e283fc18505ab2 ""
+  "sample.bib" 0 -1 0 ""
+  (generated)
+  "LaTeXreferencing.blg"
+  "LaTeXreferencing.bbl"
+["pdflatex"] 1560368262 "LaTeXreferencing.tex" "LaTeXreferencing.pdf" "LaTeXreferencing" 1560368262
+  "C:/Users/Anthony/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1522617728 4081024 c50fefaef950614c6eb0fa4e3b0a1617 ""
+  "C:/Users/Anthony/AppData/Local/Programs/MiKTeX 2.9/tex/generic/babel/babel.def" 1518634798 67244 2dce3d67c354c8d92f638d0f8682fb73 ""
+  "C:/Users/Anthony/AppData/Local/Programs/MiKTeX 2.9/tex/generic/babel/babel.sty" 1518634798 15861 065fe343082d0cd2428cf984d6b2ef66 ""
+  "C:/Users/Anthony/AppData/Local/Programs/MiKTeX 2.9/tex/generic/babel/switch.def" 1518634798 12523 d80bc74bf5e02fe4304443a6de8d01be ""
+  "C:/Users/Anthony/AppData/Local/Programs/MiKTeX 2.9/tex/generic/babel/txtbabel.def" 1518634798 7434 1b3955075683beb1c883a0fcf92ed2d5 ""
+  "C:/Users/Anthony/AppData/Local/Programs/MiKTeX 2.9/tex/latex/babel-english/english.ldf" 1496846498 7219 9ff5fdcc865b01beca2b0fe4a46231d4 ""
+  "C:/Users/Anthony/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/article.cls" 1492214938 19821 310da678527a7dfe2a02c88af38079b7 ""
+  "C:/Users/Anthony/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/inputenc.sty" 1492214946 4732 d63eda807ac82cca2ca8488efd31a966 ""
+  "C:/Users/Anthony/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/omsenc.dfu" 1492214942 2004 ac51aeac484f08c01026120d62677eca ""
+  "C:/Users/Anthony/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/ot1enc.dfu" 1492214942 3181 1cb3e9ad01f4a01127b2ffd821bfeec7 ""
+  "C:/Users/Anthony/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size10.clo" 1492214938 8292 e897c12e1e886ce77fe26afc5d470886 ""
+  "C:/Users/Anthony/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/t1enc.dfu" 1492214942 11255 9d97362866549d3d3c994b5f28d1b9b5 ""
+  "C:/Users/Anthony/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/utf8.def" 1492214942 7784 325a2a09984cb5c4ff230f9867145ad3 ""
+  "LaTeXreferencing.aux" 1447627664 546 384594c5ea9527b518e283fc18505ab2 ""
+  "LaTeXreferencing.tex" 1447627664 845 5b40c0570abc974db5884de6093f13cd ""
+  "tocbibind.sty" 0 -1 0 ""
+  (generated)
+  "LaTeXreferencing.pdf"
+  "LaTeXreferencing.log"

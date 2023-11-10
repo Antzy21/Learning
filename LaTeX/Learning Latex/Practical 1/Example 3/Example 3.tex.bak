@@ -1,0 +1,11 @@
+\documentclass[a4paper]{article}
+
+\title{A New \LaTeX\ Document}
+\author{Anthony Dunford}
+\date{today}
+
+\begin{document}
+\maketitle
+\section{Section 1}
+This is the rest of the \LaTeX\ document.
+\end{document}

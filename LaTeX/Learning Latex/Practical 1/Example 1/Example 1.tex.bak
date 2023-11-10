@@ -1,0 +1,17 @@
+\documentclass[a4paper]{article}
+\begin{document}
+
+\section{Some Formulae and Expressions}
+
+\subsection{subsection 1.1}
+
+\subsubsection{A Header}
+
+This is where the text goes
+
+\begin{itemize}
+\item no.1
+\item no.2
+\end{itemize}
+
+\end{document}

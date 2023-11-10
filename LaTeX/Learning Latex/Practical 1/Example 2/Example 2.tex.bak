@@ -1,0 +1,21 @@
+\documentclass[a4paper]{article}
+\begin{document}
+\section{Some Formulae and Expressions}
+
+\begin{equation}
+y=x^2
+\end{equation}
+
+\begin{equation}
+\int^1_0 f_i(x)g_i(x)\,\mathrm{d}x
+\end{equation}
+
+\begin{equation}
+\sqrt[n]{\frac{x^n-y^n}{1+u^{2n}}}
+\end{equation}
+
+\begin{equation}
+\cos^2\theta+\sin^2\theta=1
+\end{equation}
+
+\end{document}

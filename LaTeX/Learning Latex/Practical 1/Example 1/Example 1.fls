@@ -1,0 +1,6 @@
+PWD C:/Users/Anthony/OneDrive/Documents/Programming/LaTeX/Learning Latex/Practical 1/Example 1
+INPUT c:/texlive/2017/texmf.cnf
+INPUT c:/texlive/2017/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT ./Example 1.tex
+OUTPUT Example 1.log
