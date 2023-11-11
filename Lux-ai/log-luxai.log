@@ -1,0 +1,432 @@
+INFO:root:---- Day:  0 ----
+INFO:root:---- Day:  1 ----
+INFO:root:---- Day:  2 ----
+INFO:root:---- Day:  3 ----
+INFO:root:---- Day:  4 ----
+INFO:root:---- Day:  5 ----
+INFO:root:---- Day:  6 ----
+INFO:root:---- Day:  7 ----
+INFO:root:---- Day:  8 ----
+ERROR:root: Max tree: 400, u_3(13, 10) -> (13, 10)
+INFO:root:---- Day:  9 ----
+ERROR:root: Max tree: 380, u_3(13, 11) -> (13, 10)
+INFO:root:---- Day:  10 ----
+ERROR:root: Max tree: 360, u_3(13, 11) -> (13, 10)
+INFO:root:---- Day:  11 ----
+ERROR:root: Max tree: 340, u_3(13, 11) -> (13, 10)
+INFO:root:---- Day:  12 ----
+ERROR:root: Max tree: 320, u_3(13, 11) -> (13, 10)
+INFO:root:---- Day:  13 ----
+ERROR:root: Max tree: 300, u_3(13, 11) -> (13, 10)
+INFO:root:---- Day:  14 ----
+ERROR:root: Max tree: 285, u_3(13, 11) -> (13, 11)
+INFO:root:---- Day:  15 ----
+ERROR:root: Max tree: 280, u_3(13, 10) -> (13, 9)
+INFO:root:---- Day:  16 ----
+ERROR:root: Max tree: 260, u_3(13, 11) -> (13, 9)
+INFO:root:---- Day:  17 ----
+ERROR:root: Max tree: 240, u_3(13, 11) -> (13, 9)
+INFO:root:---- Day:  18 ----
+ERROR:root: Max tree: 220, u_3(13, 11) -> (13, 9)
+INFO:root:---- Day:  19 ----
+ERROR:root: Max tree: 200, u_3(13, 11) -> (13, 9)
+INFO:root:---- Twilight:  20 ----
+ERROR:root: Max tree: 195, u_3(13, 11) -> (13, 9)
+INFO:root:---- Twilight:  21 ----
+ERROR:root: Max tree: 180, u_3(13, 10) -> (13, 9)
+INFO:root:---- Twilight:  22 ----
+INFO:root: City c_1 should be fed
+ERROR:root: Max tree: 160, u_1(12, 9) -> (13, 9)
+ERROR:root: Max tree: 160, u_3(13, 11) -> (13, 9)
+INFO:root:---- Twilight:  23 ----
+INFO:root: City c_1 should be fed
+ERROR:root: Max tree: 155, u_1(13, 9) -> (13, 9)
+ERROR:root: Max tree: 155, u_3(13, 11) -> (13, 9)
+INFO:root:---- Twilight:  24 ----
+ERROR:root: Max tree: 140, u_3(13, 10) -> (13, 9)
+INFO:root:---- Twilight:  25 ----
+ERROR:root: Max tree: 120, u_3(13, 11) -> (13, 9)
+INFO:root:---- Twilight:  26 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (13, 9)
+INFO:root:---- Twilight:  27 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (13, 9)
+INFO:root:---- Twilight:  28 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (13, 9)
+INFO:root:---- Twilight:  29 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (13, 9)
+INFO:root:---- Night:  30 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (13, 9)
+INFO:root:---- Night:  31 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (13, 9)
+INFO:root:---- Night:  32 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (13, 9)
+INFO:root:---- Night:  33 ----
+ERROR:root: Max tree: 92, u_3(13, 11) -> (13, 9)
+INFO:root:---- Night:  34 ----
+ERROR:root: Max tree: 84, u_3(13, 11) -> (13, 9)
+INFO:root:---- Night:  35 ----
+ERROR:root: Max tree: 76, u_3(13, 11) -> (13, 9)
+INFO:root:---- Night:  36 ----
+ERROR:root: Max tree: 68, u_3(13, 11) -> (13, 9)
+INFO:root:---- Night:  37 ----
+ERROR:root: Max tree: 60, u_3(13, 11) -> (13, 9)
+INFO:root:---- Night:  38 ----
+ERROR:root: Max tree: 51, u_3(13, 11) -> (13, 9)
+INFO:root:---- Night:  39 ----
+ERROR:root: Max tree: 42, u_3(13, 11) -> (13, 9)
+INFO:root:---- Day:  40 ----
+ERROR:root: Max tree: 33, u_3(13, 11) -> (13, 9)
+INFO:root:---- Day:  41 ----
+ERROR:root: Max tree: 31, u_3(13, 11) -> (13, 9)
+INFO:root:---- Day:  42 ----
+ERROR:root: Max tree: 35, u_3(13, 10) -> (13, 9)
+INFO:root:---- Day:  43 ----
+ERROR:root: Max tree: 33, u_3(13, 11) -> (13, 9)
+INFO:root:---- Day:  44 ----
+ERROR:root: Max tree: 37, u_3(13, 10) -> (13, 9)
+INFO:root:---- Day:  45 ----
+ERROR:root: Max tree: 35, u_3(13, 11) -> (13, 9)
+INFO:root:---- Day:  46 ----
+ERROR:root: Max tree: 39, u_3(13, 10) -> (13, 9)
+INFO:root:---- Day:  47 ----
+ERROR:root: Max tree: 92, u_3(13, 11) -> (13, 9)
+INFO:root:---- Day:  48 ----
+INFO:root:---- Day:  49 ----
+ERROR:root:Worker not in city
+INFO:root:---- Day:  50 ----
+ERROR:root: Max tree: 95, u_3(13, 11) -> (13, 9)
+INFO:root:---- Day:  51 ----
+INFO:root:---- Day:  52 ----
+ERROR:root:Worker not in city
+INFO:root:---- Day:  53 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (13, 9)
+INFO:root:---- Day:  54 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (11, 8)
+INFO:root:---- Day:  55 ----
+INFO:root:---- Day:  56 ----
+ERROR:root:Worker not in city
+INFO:root:---- Day:  57 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (11, 8)
+INFO:root:---- Day:  58 ----
+ERROR:root: Max tree: 92, u_3(13, 11) -> (11, 8)
+INFO:root:---- Day:  59 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (11, 8)
+INFO:root:---- Twilight:  60 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (11, 8)
+INFO:root:---- Twilight:  61 ----
+INFO:root:---- Twilight:  62 ----
+ERROR:root:Worker not in city
+INFO:root:---- Twilight:  63 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (11, 8)
+INFO:root:---- Twilight:  64 ----
+ERROR:root: Max tree: 95, u_3(13, 11) -> (11, 8)
+INFO:root:---- Twilight:  65 ----
+INFO:root:---- Twilight:  66 ----
+ERROR:root:Worker not in city
+INFO:root:---- Twilight:  67 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (11, 8)
+INFO:root:---- Twilight:  68 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (11, 8)
+INFO:root:---- Twilight:  69 ----
+INFO:root:---- Night:  70 ----
+ERROR:root:Worker not in city
+INFO:root:---- Night:  71 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (11, 8)
+INFO:root:---- Night:  72 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (11, 8)
+INFO:root:---- Night:  73 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (11, 8)
+INFO:root:---- Night:  74 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (11, 8)
+INFO:root:---- Night:  75 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (11, 8)
+INFO:root:---- Night:  76 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (11, 8)
+INFO:root:---- Night:  77 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (11, 8)
+INFO:root:---- Night:  78 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (11, 8)
+INFO:root:---- Night:  79 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (11, 8)
+INFO:root:---- Day:  80 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (11, 8)
+INFO:root:---- Day:  81 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (11, 8)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (11, 8)
+INFO:root:---- Day:  82 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (11, 8)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (11, 8)
+INFO:root:---- Day:  83 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (11, 8)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (11, 8)
+INFO:root:---- Day:  84 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (11, 8)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (11, 8)
+INFO:root:---- Day:  85 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (11, 8)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (11, 8)
+INFO:root:---- Day:  86 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (11, 8)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (11, 8)
+INFO:root:---- Day:  87 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (11, 8)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (11, 8)
+INFO:root:---- Day:  88 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (11, 8)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (11, 8)
+INFO:root:---- Day:  89 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (11, 8)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (11, 8)
+INFO:root:---- Day:  90 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (11, 8)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (11, 8)
+INFO:root:---- Day:  91 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (11, 8)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (11, 8)
+INFO:root:---- Day:  92 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (11, 8)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (11, 8)
+INFO:root:---- Day:  93 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (11, 8)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (11, 8)
+INFO:root:---- Day:  94 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (11, 8)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (11, 8)
+INFO:root:---- Day:  95 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (11, 8)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (11, 8)
+INFO:root:---- Day:  96 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (11, 8)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (11, 8)
+INFO:root:---- Day:  97 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (11, 8)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (11, 8)
+INFO:root:---- Day:  98 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (11, 8)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (11, 8)
+INFO:root:---- Day:  99 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (11, 8)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (11, 8)
+INFO:root:---- Twilight:  100 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (11, 8)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (11, 8)
+INFO:root:---- Twilight:  101 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (11, 8)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (11, 8)
+INFO:root:---- Twilight:  102 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+INFO:root:---- Twilight:  103 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+INFO:root:---- Twilight:  104 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+INFO:root:---- Twilight:  105 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+INFO:root:---- Twilight:  106 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+INFO:root:---- Twilight:  107 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+INFO:root:---- Twilight:  108 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+INFO:root:---- Twilight:  109 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+INFO:root:---- Night:  110 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+INFO:root:---- Night:  111 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+INFO:root:---- Night:  112 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+INFO:root:---- Night:  113 ----
+INFO:root: City c_1 should be fed
+ERROR:root: Max tree: 100, u_1(7, 6) -> (8, 6)
+ERROR:root: Warning: Large depth count
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+INFO:root:---- Night:  114 ----
+INFO:root: City c_1 should be fed
+ERROR:root: Max tree: 100, u_1(7, 6) -> (8, 6)
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+INFO:root:---- Night:  115 ----
+INFO:root: City c_1 should be fed
+ERROR:root: Max tree: 100, u_1(8, 6) -> (8, 6)
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+INFO:root:---- Night:  116 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+INFO:root:---- Night:  117 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+INFO:root:---- Night:  118 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+INFO:root:---- Night:  119 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+INFO:root:---- Day:  120 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+INFO:root:---- Day:  121 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 10) -> (8, 6)
+INFO:root:---- Day:  122 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 11) -> (8, 6)
+INFO:root:---- Day:  123 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 10) -> (8, 6)
+INFO:root:---- Day:  124 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 11) -> (8, 6)
+INFO:root:---- Day:  125 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 10) -> (8, 6)
+INFO:root:---- Day:  126 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 11) -> (8, 6)
+INFO:root:---- Day:  127 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 10) -> (8, 6)
+INFO:root:---- Day:  128 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 11) -> (8, 6)
+INFO:root:---- Day:  129 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 10) -> (8, 6)
+INFO:root:---- Day:  130 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 11) -> (8, 6)
+INFO:root:---- Day:  131 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 10) -> (8, 6)
+INFO:root:---- Day:  132 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 11) -> (8, 6)
+INFO:root:---- Day:  133 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 10) -> (8, 6)
+INFO:root:---- Day:  134 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 11) -> (8, 6)
+INFO:root:---- Day:  135 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 10) -> (8, 6)
+INFO:root:---- Day:  136 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 11) -> (8, 6)
+INFO:root:---- Day:  137 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 10) -> (8, 6)
+INFO:root:---- Day:  138 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 11) -> (8, 6)
+INFO:root:---- Day:  139 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 10) -> (8, 6)
+INFO:root:---- Twilight:  140 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 11) -> (8, 6)
+INFO:root:---- Twilight:  141 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 10) -> (8, 6)
+INFO:root:---- Twilight:  142 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 11) -> (8, 6)
+INFO:root:---- Twilight:  143 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 10) -> (8, 6)
+INFO:root:---- Twilight:  144 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 11) -> (8, 6)
+INFO:root:---- Twilight:  145 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 10) -> (8, 6)
+INFO:root:---- Twilight:  146 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 11) -> (8, 6)
+INFO:root:---- Twilight:  147 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 10) -> (8, 6)
+INFO:root:---- Twilight:  148 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 11) -> (8, 6)
+INFO:root:---- Twilight:  149 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 10) -> (8, 6)
+INFO:root:---- Night:  150 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 11) -> (8, 6)
+INFO:root:---- Night:  151 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 10) -> (8, 6)
+INFO:root:---- Night:  152 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 11) -> (8, 6)
+INFO:root:---- Night:  153 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 10) -> (8, 6)
+INFO:root:---- Night:  154 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 11) -> (8, 6)
+INFO:root:---- Night:  155 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 10) -> (8, 6)
+INFO:root:---- Night:  156 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 11) -> (8, 6)
+INFO:root:---- Night:  157 ----
+ERROR:root: Max tree: 100, u_3(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 10) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 10) -> (8, 6)
+INFO:root:---- Night:  158 ----
+ERROR:root: Max tree: 100, u_3(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_5(13, 11) -> (8, 6)
+ERROR:root: Max tree: 100, u_7(13, 11) -> (8, 6)
+INFO:root:---- Night:  159 ----

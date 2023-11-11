@@ -4,3 +4,6 @@
 **/obj/*
 
 Discord Bots/secrets/Ids.py
+Lux-ai/errorlogs/**
+
+**/__pycache__
