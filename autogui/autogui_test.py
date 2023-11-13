@@ -1,3 +1,7 @@
+# WARNING!
+# This test involves moving and clicking of the mouse automatically.
+# Make sure it doesn't cause any unintented consequences.
+
 import pyautogui
 
 # Show the current position of the mouse pointer
@@ -14,13 +18,13 @@ y = 500
 XY_coordinates_on_screen = pyautogui.onScreen(x, y)
 print(XY_coordinates_on_screen)
 
-# Pause 2.5 seconds
+# Pause 0.5 seconds
 pyautogui.PAUSE = 0.5
 
-# move mouse to XY coordinates over num_second seconds
+# Move mouse to XY coordinates over num_second seconds
 pyautogui.moveTo(x, y, duration = 1)
 
-# move mouse relative to its current position
+# Move mouse relative to its current position
 x_change = 100
 y_change = 150
 pyautogui.moveRel(x_change, y_change, duration = 1)
@@ -37,4 +41,12 @@ pyautogui.mouseUp(x = x, y = y, button='left')
 amount_to_scroll = 1
 pyautogui.scroll(amount_to_scroll, x = x, y = y)
 
-pyautogui.keyDown('shift')
+# Press the windows key
+pyautogui.keyDown('win')
+pyautogui.keyUp('win')
+
+# Pause 0.5 seconds
+pyautogui.PAUSE = 1
+
+# Press windows key
+pyautogui.press('win')

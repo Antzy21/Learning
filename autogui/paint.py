@@ -1,26 +1,26 @@
 import pyautogui
 import time
+import pathlib
 
 position = pyautogui.position()
 print(position)
 
 def open_paint():
-    pyautogui.click(x = 229, y = 1051)
+    pyautogui.press("win")
     pyautogui.typewrite(['p','a','i','n','t', 'enter'], interval = 0.5)
     #enlarge()
 
 def enlarge():
-    enlarge = pyautogui.locateOnScreen('paint_enlarge.png')
-    print(enlarge)
-    if enlarge != None:
-        pyautogui.center(enlarge)
+    square_location = pyautogui.locateOnScreen('small_square.png')
+    print(square_location)
+    if square_location != None:
+        pyautogui.center(square_location)
 
-
-def draw():
+def draw_line():
     pyautogui.moveTo(500,400)
     pyautogui.dragTo(500,500, duration = 1)
 
-def tutorial():
+def draw_spiral():
     total_distance = 300
     distance_change = 10
     duration = 0.1
@@ -32,20 +32,38 @@ def tutorial():
         total_distance -= distance_change
         pyautogui.dragRel(0, -total_distance, duration = duration)  # move up
 
-def close():
-    pyautogui.moveTo(x = 1880, y = 20, duration = 1)
-    pyautogui.click()
-    pyautogui.moveTo(x = 1015, y = 525, duration = 1)
-    pyautogui.click()
+def go_to_screen_centre():
+    screensize = pyautogui.size()
+    height = screensize.height/2
+    width = screensize.width/2
+    pyautogui.moveTo(width, height)
 
-def run():
-    open_paint()
-    #draw()
-    pyautogui.moveTo(250,250)
-    tutorial()
+def close_and_save():
+    # Close app
+    pyautogui.keyDown("alt")
+    pyautogui.press("f4")
+    pyautogui.keyUp("alt")
 
+    # Yes to save
+    time.sleep(0.5)
+    pyautogui.press("enter")
 
+    # location
+    time.sleep(0.5)
+    new_file_name = f"{pathlib.Path().resolve()}\\my_spiral_drawing.png"
+    pyautogui.write(new_file_name)
+    
+    # Yes to confirm save
+    time.sleep(0.5)
+    pyautogui.press("enter")
 
-run()
+open_paint()
+go_to_screen_centre()
+
 time.sleep(2)
-close()
+
+#draw_line()
+draw_spiral()
+
+time.sleep(2)
+close_and_save()

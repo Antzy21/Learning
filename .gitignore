@@ -7,3 +7,6 @@ Discord Bots/secrets/Ids.py
 Lux-ai/errorlogs/**
 
 **/__pycache__
+
+# ignore saved picture drawn with pyautogui
+autogui/my_spiral_drawing.png
