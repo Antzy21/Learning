@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 from discord.ext.commands import Bot
-from Ids import *
+from Ids import TOKEN
 
 bot = discord.Client()
 
